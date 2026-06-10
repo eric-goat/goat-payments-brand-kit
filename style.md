@@ -1,15 +1,16 @@
 # Goat Payments Design System
 
 ## Brand Overview
-**GOAT Payments** — Optimizing payment solutions for SMB’s.  
+**GOAT Payments** — Optimizing payment solutions for SMBs.
 Transparent, scalable payment processing that grows with businesses of all sizes.
 
-**Mission**: Provide transparent processing solutions which make a material impact to our merchant partners around the globe.  
+**Mission**: Provide transparent processing solutions which make a material impact to our merchant partners around the globe.
 **Core Values**: Experience. Integrity. Options.
 
 ## Color Palette
 - **Primary Green**: #96C100 — CTAs, accents, icons
 - **Dark Gray**: #474749 — Headers, body text, dark mode
+- **Deep Navy**: #003568 — Authority surfaces, trust accents, dark sections
 - **White**: #FFFFFF — Backgrounds, light mode
 
 ## Typography
@@ -24,7 +25,7 @@ Transparent, scalable payment processing that grows with businesses of all sizes
 - Do not distort, recolor, or recreate with text
 
 ## Layout & Spacing
-- Generous white space (minimum 32–64px between sections)
+- Generous white space (minimum 32-64px between sections)
 - Clean hierarchy with strong Montserrat headings
 - Card style: Subtle shadow, rounded corners, clean borders
 - Max content width: 1200px for 1-pagers
